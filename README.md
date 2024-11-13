@@ -8,3 +8,5 @@ The student survey is rendered to the console/terminal where you can select your
 
 ### How to Install and Run the Project
 The easiest way to run the program is with visual studio code (vsc). Simply download the java extension in vsc and you should be good to go. 
+
+(Watch Video Project)[https://www.aswebdev.com/media/java_student_survey_project.mp4]
