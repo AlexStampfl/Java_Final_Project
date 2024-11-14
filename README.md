@@ -1,6 +1,6 @@
 # Student Survey Java Final Project
 ### Description
-This is my final project for my semester one **Java** class.
+This is my final project for my semester one **Java** class at Gateway Technical College.
 The project is a student survey and tally counting app.
 It asks the users questions and keeps track of the answers.
 
